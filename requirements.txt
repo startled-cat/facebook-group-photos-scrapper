@@ -1,0 +1,2 @@
+facebook_scraper==0.2.54
+requests==2.22.0

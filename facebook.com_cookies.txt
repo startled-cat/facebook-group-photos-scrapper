@@ -1,0 +1,2 @@
+# Use this chrome extenstion to export cookies
+# https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid
